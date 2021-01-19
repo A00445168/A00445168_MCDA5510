@@ -3,3 +3,7 @@ git is distributed version control system.
 Favorite places I have visited:
 Ontario
 Halifax
+
+More favorite places:
+Delhi
+Mumbai
