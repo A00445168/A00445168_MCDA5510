@@ -1,0 +1,4 @@
+#A000447052
+Public int math_pow(int a, int b) {
+return Math.pow(a,b);
+}
