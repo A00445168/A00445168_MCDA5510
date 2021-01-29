@@ -1,3 +1,11 @@
+
+#A00442585
+
+/* Division*/
+Public int addition (int a, int b) {
+return a/b;
+} 
+
 #A000447052
 Public int math_min(int a, int b) {
 return Math.min(a,b);
