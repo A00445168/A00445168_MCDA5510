@@ -4,9 +4,12 @@
 Public int addition (int a, int b) {
 return Math.max(a,b);
 } 
-
+########## added by raghav A00445168
+a math.avg() b
+###########################
 
 #A000447052
 Public int math_pow(int a, int b) {
 return Math.pow(a,b);
 }
+
