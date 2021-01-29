@@ -1,0 +1,6 @@
+#A00442585
+
+/* Addition*/
+Public int addition (int a, int b) {
+return a+b;
+} 
