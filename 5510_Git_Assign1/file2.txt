@@ -1,3 +1,10 @@
-###########added by raghav
+#A00442585
+/* Division*/
+Public int addition (int a, int b) {
+return a/b;
+} 
+
+###########added by raghav A00445168
 a % b
 #######################
+
