@@ -9,4 +9,10 @@ return a+b;
 ##Added by raghav A00445168
 a - b
 ##############
-=======
+
+#A000447052
+
+Public int multiplication(int a, int b) {
+return a*b;
+}
+
