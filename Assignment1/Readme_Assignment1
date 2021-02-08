@@ -1,0 +1,4 @@
+Assignment 1 submission
+Program.cs is the C# program that reads into a specified directory recursively and opens and reads rows of csv files. It counts all good rows and if any column has null, it counts it 
+as bad row. It finally subtracts bad columns from all rows counted to get good rows and prints out the time taken to read all files, the good row count and bad row count
+into a log file. It also outouts the good rows into a csv file called Output.csv.
