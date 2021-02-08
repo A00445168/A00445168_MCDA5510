@@ -1,0 +1,3 @@
+Total Time in Milliseconds : 75848
+Good rows: 257809
+Bad Rows: 38208
